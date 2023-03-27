@@ -1,0 +1,98 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-color:antiquewhite;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+background-color: #E4E9F5;
+max-width: 1000px;
+margin: 0 auto;
+padding: 30px;
+}
+header{
+
+
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border:3px solid white;
+    border-radius: 50%;
+   float:left;
+}
+.header-bio{
+float:left;
+padding:30px;
+
+}
+h1 ,h2 ,h3,h4,h5{
+color:#11999E;
+}
+.header-contact{
+float:right;
+padding:30px;
+
+}
+.header-contact a{
+ text-decoration: none;
+ color:teal;
+ font-weight:bold;
+}
+.header-contact a:hover{
+color:tomato;
+text-decoration: underline;
+}
+.div-clear{
+    clear:both;
+}
+hr{
+border:3px solid black;
+width:100%;
+margin:20px auto;
+border-bottom: none;
+
+}
+.content{
+
+}
+.left-div{
+width:30%;
+float: left;
+
+}
+.right-div{
+width:70%;
+float:left;
+}
+.common-hr{
+    border:1px solid black;
+    width:100%;
+    border-bottom:none;
+    margin:20px auto
+}
+.edu-left{
+    float:left;
+    width:45%;
+}
+.edu-right{
+    float:right;
+    width:45%;
+}
+.bottom-cont{
+background-color: black;
+color:white;
+text-align: center;
+padding: 10px;
+}
+.bottom-cont a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+
+
+
